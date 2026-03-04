@@ -10,8 +10,7 @@ I write about performance engineering, scalable infrastructure, and software on 
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsarmaonline&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsarmaonline&layout=compact&theme=dark&hide_border=true)
+![Metrics](./metrics.svg)
 
 ---
 
