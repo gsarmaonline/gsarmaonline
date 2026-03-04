@@ -3,12 +3,37 @@ name: Update GitHub Metrics
 on:
   schedule:
     - cron: '0 0 * * *'  # daily at midnight UTC
-  workflow_dispatch:       # allow manual trigger
+  workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - 'README.md'
+      - 'metrics.svg'
 
 jobs:
-  metrics:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Update top repos in README
+        run: python .github/scripts/top_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit README changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update top repos stats [skip ci]" && git push
+
+  update-metrics-svg:
+    needs: update-readme
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -26,3 +51,4 @@ jobs:
           output_action: commit
           filename: metrics.svg
           committer_branch: main
+          committer_message: 'Update metrics [skip ci]'

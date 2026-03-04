@@ -31,6 +31,13 @@ I write about performance engineering, scalable infrastructure, and software on 
 - [AI Tennis Coach using MediaPipe and Claude](https://gauravsarma.com)
 - [Elasticsearch optimization — Lucene segments & partial results](https://gauravsarma.com)
 
+<!-- TOP_REPOS_START -->
+### 🚀 Most Active Repos (Last Year)
+
+_Updating..._
+
+<!-- TOP_REPOS_END -->
+
 ---
 
 ### 🔗 Connect
