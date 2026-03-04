@@ -34,7 +34,16 @@ I write about performance engineering, scalable infrastructure, and software on 
 <!-- TOP_REPOS_START -->
 ### 🚀 Most Active Repos (Last Year)
 
-_Updating..._
+- [crashdsa](https://github.com/gsarmaonline/crashdsa) — 135 commits, +23,638 / -2,689
+- [cronny](https://github.com/gsarmaonline/cronny) — 123 commits, +24,996 / -784
+- [localisprod-v2](https://github.com/gsarmaonline/localisprod-v2) — 104 commits, +13,784 / -1,485
+- [goiter](https://github.com/gsarmaonline/goiter) — 51 commits, +5,819 / -2,386
+- [infrastructure](https://github.com/gsarmaonline/infrastructure) — 35 commits, +1,924 / -1,068
+- [gobot](https://github.com/gsarmaonline/gobot) — 30 commits, +16,444 / -7,081
+- [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
+- [nvim](https://github.com/gsarmaonline/nvim) — 29 commits, +4,182 / -160
+- [technify-motions](https://github.com/gsarmaonline/technify-motions) — 15 commits, +10,281 / -827
+- [faas](https://github.com/gsarmaonline/faas) — 8 commits, +3,924 / -92
 
 <!-- TOP_REPOS_END -->
 
