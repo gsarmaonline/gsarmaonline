@@ -1,7 +1,41 @@
-## Hi there 👋
+## Hi there, I'm Gaurav 👋
 
-I am a Software Engineer and love to read and write about everything related to software. I am currently working as an engineer in the Database Engine team at Stripe. I have previously worked in companies like VMware, Rippling and Lavelle Networks.
+Software Engineer on the Database Engine team at **Stripe**. Previously at Rippling, VMware, and Lavelle Networks.
 
-Over a span of 10 fruitful years, I have worked as an individual contributor, technical lead and engineering manager in different types of globalized teams. I work with early age startups primarily on performance engineering and building scalable infrastructure.
+Over 10+ years I've worked as IC, tech lead, and engineering manager — building software-defined networking for 10s of thousands of edge routers, Kubernetes platforms for developers, and scaling one of the largest database clusters in the world.
 
-I have worked on building Software defined networking solutions managing and monitoring 10s of thousands of edge routers across India, project management software with millions of customers, built kubernetes platform for developers, worked on and scale one of the largest database clusters in the world.
+I write about performance engineering, scalable infrastructure, and software on my blog at **[gauravsarma.com](https://gauravsarma.com)**.
+
+---
+
+### 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsarmaonline&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsarmaonline&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🛠 Things I work with
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### ✍️ Recent posts
+
+- [Building an autonomous software engineering agent (Gigaboy)](https://gauravsarma.com)
+- [AI Tennis Coach using MediaPipe and Claude](https://gauravsarma.com)
+- [Elasticsearch optimization — Lucene segments & partial results](https://gauravsarma.com)
+
+---
+
+### 🔗 Connect
+
+[![Website](https://img.shields.io/badge/gauravsarma.com-000000?style=flat&logo=About.me&logoColor=white)](https://gauravsarma.com)
+[![Twitter](https://img.shields.io/badge/@sarmag77-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarmag77)
+[![GitHub](https://img.shields.io/badge/gsarmaonline-181717?style=flat&logo=github&logoColor=white)](https://github.com/gsarmaonline)
