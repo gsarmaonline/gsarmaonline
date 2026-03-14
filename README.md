@@ -12,15 +12,15 @@ I write about performance engineering, scalable infrastructure, and software on 
 ### 🚀 Most Active Repos (Last Year)
 
 - [crashdsa](https://github.com/gsarmaonline/crashdsa) — 135 commits, +23,638 / -2,689
-- [cronny](https://github.com/gsarmaonline/cronny) — 112 commits, +24,996 / -784
+- [cronny](https://github.com/gsarmaonline/cronny) — 104 commits, +24,996 / -784
 - [localisprod-v2](https://github.com/gsarmaonline/localisprod-v2) — 104 commits, +13,784 / -1,485
 - [tennis-coach](https://github.com/gsarmaonline/tennis-coach) — 90 commits, +10,418 / -6,545
+- [marketview](https://github.com/gsarmaonline/marketview) — 66 commits, +10,679 / -1,764
 - [goiter](https://github.com/gsarmaonline/goiter) — 51 commits, +5,819 / -2,386
 - [infrastructure](https://github.com/gsarmaonline/infrastructure) — 38 commits, +1,313 / -1,425
-- [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
+- [nvim](https://github.com/gsarmaonline/nvim) — 35 commits, +6,888 / -434
 - [gobot](https://github.com/gsarmaonline/gobot) — 30 commits, +16,444 / -7,081
-- [nvim](https://github.com/gsarmaonline/nvim) — 29 commits, +4,491 / -40
-- [weform](https://github.com/gsarmaonline/weform) — 25 commits, +21,402 / -519
+- [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
 
 <!-- TOP_REPOS_END -->
 
