@@ -14,7 +14,7 @@ I write about performance engineering, scalable infrastructure, and software on 
 - [crashdsa](https://github.com/gsarmaonline/crashdsa) — 135 commits, +23,638 / -2,689
 - [localisprod-v2](https://github.com/gsarmaonline/localisprod-v2) — 104 commits, +13,784 / -1,485
 - [tennis-coach](https://github.com/gsarmaonline/tennis-coach) — 90 commits, +10,418 / -6,545
-- [marketview](https://github.com/gsarmaonline/marketview) — 68 commits, +12,545 / -12,032
+- [marketview](https://github.com/gsarmaonline/marketview) — 72 commits, +86,951 / -11,957
 - [cronny](https://github.com/gsarmaonline/cronny) — 53 commits, +24,996 / -784
 - [goiter](https://github.com/gsarmaonline/goiter) — 51 commits, +5,819 / -2,386
 - [infrastructure](https://github.com/gsarmaonline/infrastructure) — 38 commits, +1,313 / -1,425
