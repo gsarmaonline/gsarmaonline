@@ -17,8 +17,8 @@ I write about performance engineering, scalable infrastructure, and software on 
 - [marketview](https://github.com/gsarmaonline/marketview) — 72 commits, +86,951 / -11,957
 - [cronny](https://github.com/gsarmaonline/cronny) — 53 commits, +24,996 / -784
 - [goiter](https://github.com/gsarmaonline/goiter) — 51 commits, +5,819 / -2,386
-- [infrastructure](https://github.com/gsarmaonline/infrastructure) — 38 commits, +1,313 / -1,425
 - [nvim](https://github.com/gsarmaonline/nvim) — 38 commits, +6,782 / -472
+- [infrastructure](https://github.com/gsarmaonline/infrastructure) — 38 commits, +1,313 / -1,425
 - [gobot](https://github.com/gsarmaonline/gobot) — 30 commits, +16,444 / -7,081
 - [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
 
