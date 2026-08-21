@@ -17,10 +17,10 @@ I write about performance engineering, scalable infrastructure, and software on 
 - [tennis-coach](https://github.com/gsarmaonline/tennis-coach) — 90 commits, +10,418 / -6,545
 - [marketview](https://github.com/gsarmaonline/marketview) — 72 commits, +86,951 / -11,957
 - [cronny](https://github.com/gsarmaonline/cronny) — 53 commits, +24,996 / -784
-- [nvim](https://github.com/gsarmaonline/nvim) — 47 commits, +8,768 / -974
+- [nvim](https://github.com/gsarmaonline/nvim) — 50 commits, +8,635 / -1,094
 - [infrastructure](https://github.com/gsarmaonline/infrastructure) — 38 commits, +1,313 / -1,425
-- [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
 - [gobot](https://github.com/gsarmaonline/gobot) — 30 commits, +16,444 / -7,081
+- [tusker](https://github.com/gsarmaonline/tusker) — 30 commits, +11,491 / -253
 
 <!-- TOP_REPOS_END -->
 
